@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TorbsAudio
+- 👀 I’m interested in game audio
+- 🌱 I’m currently learning Wwise and Unreal Engine
+- 💞️ I’m looking to collaborate on games
+- 📫 How to reach me torbsaudio@gmail.com, Torbs#1998 at discord
